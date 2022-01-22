@@ -1,5 +1,8 @@
 image:
   pullPolicy: Never
 
+scalingPolicy:
+  enable: True
+
 service:
   type: LoadBalancer
