@@ -1,2 +1,5 @@
+image:
+  pullPolicy: Never
+
 service:
   type: LoadBalancer
