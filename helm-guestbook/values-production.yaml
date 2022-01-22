@@ -1,4 +1,5 @@
 image:
+  tag: 0.2
   pullPolicy: Never
 
 scalingPolicy:
